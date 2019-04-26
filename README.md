@@ -213,6 +213,9 @@ void decryptit(char *fromthis)
 }
 
 ```
+Folder dan file yang berada di /home/Penunggu/shift4 ter-encrypt dengan Caesar Cipher yang dimodifikasi dengan character list yang diekspan.
+
+Ditambahkan fungsi __encryptit__ dan __decryptit__ untuk melakukan encrypt dan decrypt pada program.
 
 
 ### 2. soal 2
